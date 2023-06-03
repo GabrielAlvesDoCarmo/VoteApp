@@ -46,11 +46,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun clearVotes() {
-        votes.forEach { it == 0 }
+        votes.forEach {value-> value == 0 }
     }
 
     private fun defineBackgroundColor(@ColorRes color: Int) {
-
         binding.root.setBackgroundColor(resources.getColor(color))
     }
 
