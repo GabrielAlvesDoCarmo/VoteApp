@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnuBackground"
+        android:title="@string/background"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/mnuBlue"
+                android:title="@string/color_blue" />
+            <item
+                android:id="@+id/mnuRed"
+                android:title="@string/color_red" />
+            <item
+                android:id="@+id/mnuGreen"
+                android:title="@string/color_green" />
+            <item
+                android:id="@+id/mnuYellow"
+                android:title="@string/color_yellow" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mnuClearVote"
+        android:title="@string/clear_polling"
+        app:showAsAction="never" />
+</menu>

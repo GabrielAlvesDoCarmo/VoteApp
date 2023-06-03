@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoteApp</string>
+    <string name="cedula_eleitoral">Ballot Papper</string>
+    <string name="votar">Vote</string>
+    <string name="apuracao">Polling</string>
+    <string name="voto_obrigatorio">Required Vote</string>
+    <string name="vote_success">Vote for %s Success</string>
+    <string name="background">Background</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_red">Red</string>
+    <string name="clear_polling">Clear votes</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yellow</string>
+</resources>

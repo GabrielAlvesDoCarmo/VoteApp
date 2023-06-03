@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">VoteApp</string>
+    <string name="cedula_eleitoral">Cedula Eleitoral</string>
+    <string name="ronaldinho" translatable="false">Ronaldinho</string>
+    <string name="kb" translatable="false">kb</string>
+    <string name="lula" translatable="false">lula</string>
+    <string name="votar">Votar</string>
+    <string name="apuracao">Apuracao</string>
+    <string name="voto_obrigatorio">Voto obrigatorio</string>
+    <string name="vote_success">Voto para o %s com sucesso</string>
+    <string name="background">Cor de Fundo</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_red">Vermelha</string>
+    <string name="clear_polling">Limpar votacao</string>
+    <string name="color_green">Verde</string>
+    <string name="color_yellow">Amarelo</string>
+</resources>
