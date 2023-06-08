@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707745073862",
+    "project_id": "voteapp-6eb34",
+    "storage_bucket": "voteapp-6eb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707745073862:android:591cfacff90118d5b3e5c7",
+        "android_client_info": {
+          "package_name": "com.gdsdevtec.voteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707745073862-3tnti722jsqtf6k75snlk05nsbusg3gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3N8VggtUPLvyWYgPETFPQ2VwV-0e7Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707745073862-3tnti722jsqtf6k75snlk05nsbusg3gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
